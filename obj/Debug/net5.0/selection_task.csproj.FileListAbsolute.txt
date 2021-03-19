@@ -1,0 +1,16 @@
+C:\Users\hamis\Projects\selection_task\bin\Debug\net5.0\selection_task.exe
+C:\Users\hamis\Projects\selection_task\bin\Debug\net5.0\selection_task.deps.json
+C:\Users\hamis\Projects\selection_task\bin\Debug\net5.0\selection_task.runtimeconfig.json
+C:\Users\hamis\Projects\selection_task\bin\Debug\net5.0\selection_task.runtimeconfig.dev.json
+C:\Users\hamis\Projects\selection_task\bin\Debug\net5.0\selection_task.dll
+C:\Users\hamis\Projects\selection_task\bin\Debug\net5.0\ref\selection_task.dll
+C:\Users\hamis\Projects\selection_task\bin\Debug\net5.0\selection_task.pdb
+C:\Users\hamis\Projects\selection_task\obj\Debug\net5.0\selection_task.csprojAssemblyReference.cache
+C:\Users\hamis\Projects\selection_task\obj\Debug\net5.0\selection_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamis\Projects\selection_task\obj\Debug\net5.0\selection_task.AssemblyInfoInputs.cache
+C:\Users\hamis\Projects\selection_task\obj\Debug\net5.0\selection_task.AssemblyInfo.cs
+C:\Users\hamis\Projects\selection_task\obj\Debug\net5.0\selection_task.csproj.CoreCompileInputs.cache
+C:\Users\hamis\Projects\selection_task\obj\Debug\net5.0\selection_task.dll
+C:\Users\hamis\Projects\selection_task\obj\Debug\net5.0\ref\selection_task.dll
+C:\Users\hamis\Projects\selection_task\obj\Debug\net5.0\selection_task.pdb
+C:\Users\hamis\Projects\selection_task\obj\Debug\net5.0\selection_task.genruntimeconfig.cache
